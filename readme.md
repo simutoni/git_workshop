@@ -1,3 +1,3 @@
 test1
 Add new line - Workshop Part 2
-Detaliile cerute de Toni - Winter is not coming
+Detaliile cerute de Toni - Winter is not coming yet
