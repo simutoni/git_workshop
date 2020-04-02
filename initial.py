@@ -1,5 +1,4 @@
-a = 1
+a = 1 
 b = 2
-c = 1
-print(a+b-c)
-assert a+b-c == 2
+print(a+b)
+assert a+b == 3
