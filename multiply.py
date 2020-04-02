@@ -1,4 +1,4 @@
 a = 2
 b = 4
 print(a*b)
-assert a*b == 6
+assert a*b == 8
