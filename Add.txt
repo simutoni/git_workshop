@@ -1,4 +1,5 @@
 a = 1
 b = 2
-print (a+b)
-assert a+b = 3
+c = 3
+print (a+b +c)
+assert a+b+c = 6
